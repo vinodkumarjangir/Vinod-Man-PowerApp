@@ -1,0 +1,6 @@
+﻿{
+  "ConnectionFile": {
+    "EmployeeCsvFilePath": "C:\\Users\\vinod\\Downloads\\Employee.csv",
+    "TaskCsvFilePath": "C:\\Users\\vinod\\Downloads\\Task.csv"
+  }
+}

@@ -1,0 +1,21 @@
+Task Id,Skill Required,Priority?
+101,Operator I,
+102,Specialist Machinist,Yes
+103,Operator II,
+105,Master Machinist,
+106,Machinist I,
+104,Specialist Machinist,
+109,Operator II,Yes
+120,Machinist I,
+116,Operator I,
+108,Specialist Machinist,
+110,Master Machinist,
+119,Machinist I,Yes
+115,Operator II,
+118,Specialist Machinist,
+117,Master Machinist,
+107,Operator I,
+111,Machinist I,
+112,Specialist Machinist,
+113,Operator II,
+114,Machinist I,Yes
